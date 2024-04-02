@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yazilimrehberi.dev/sitemap.xml
